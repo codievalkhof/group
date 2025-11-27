@@ -21,3 +21,4 @@ Dit project is een oefenomgeving voor het samenwerken via GitHub. Studenten werk
 
 ## 📌 GitHub Pages
 Ga naar **Settings > Pages** om de site live te publiceren.
+
